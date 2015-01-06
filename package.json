@@ -1,0 +1,35 @@
+{
+  "name": "gibber.communication.lib",
+  "version": "0.0.0",
+  "description": "communication protocols for Gibber, including MIDI, OSC and WebSockets.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/charlieroberts/gibber.communication.lib"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.7",
+    "browserify": "~5.10.1",
+    "vinyl-source-stream": "~0.1.1",
+    "gulp-uglify": "~0.3.1",
+    "vinyl-buffer": "0.0.0",
+    "gulp-insert": "~0.4.0",
+    "gulp-browserify": "~0.5.0",
+    "gulp-rename": "~1.2.0",
+    "gibber.core.lib": "~0.0.1",
+    "watchify": "~1.0.3"
+  },
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/charlieroberts/gibber.communication.lib/issues"
+  },
+  "main": "./scripts/client/gibber/communication.js",
+  "scripts": {},
+  "keywords": [
+    "live coding",
+    "OSC",
+    "MIDI",
+    "gibber"
+  ],
+  "author": "Charlie Roberts <charlie@charlie-roberts.com> (http://www.charlie-roberts.com/)",
+  "license": "MIT"
+}
