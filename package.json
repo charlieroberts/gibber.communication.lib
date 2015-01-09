@@ -31,5 +31,6 @@
     "gibber"
   ],
   "author": "Charlie Roberts <charlie@charlie-roberts.com> (http://www.charlie-roberts.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/charlieroberts/gibber.communication.lib"
 }
